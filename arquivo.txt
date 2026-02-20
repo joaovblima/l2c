@@ -1,0 +1,7 @@
+LICENSE
+arquivo.txt
+country.sh
+entered_name.sh
+input.txt
+read_file.sh
+run_all.sh
